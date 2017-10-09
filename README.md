@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages Class
 
 You can use the [editor on GitHub](https://github.com/Vinoy-/githubPages.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
